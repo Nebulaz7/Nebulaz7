@@ -91,9 +91,9 @@ I believe **code is a superpower**, and I'm always down to build the next big th
 
 ## 📫 Let's Connect
 
-[![Twitter Badge](https://img.shields.io/badge/-@your_handle-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your_handle)
+[![Twitter Badge](https://img.shields.io/badge/-@your_handle-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/joshpet77)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://petersjoshua.me)
 
 ---
 
