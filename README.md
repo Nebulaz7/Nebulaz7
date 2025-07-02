@@ -1,11 +1,5 @@
 # 👋 Hey there, I’m Nebulaz7
 
-🚀 I'm a passionate **Frontend Developer** exploring the exciting world of **AI/ML** and **Web3** technologies.
-
-- 👨🏽‍💻 I’m currently sharpening my skills in **Machine Learning and Web 3** and building projects that bridge AI with user-friendly<h1 align="center">
-  Hi there 👋, I'm Joshua Peters
-</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=Frontend+Developer;AI+%2F+ML+Enthusiast;Web3+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
