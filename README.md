@@ -43,24 +43,15 @@
 ---
 
 
-- 🤝 I’m open to collaborating on impactful projects, especially in **AI**, **Web3**, and **open-source**.
-- 📫 You can reach me at **jp0712002@gmail.com** or [on X](https://x.com/joshpet77).
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nebulaz7&show_icons=true&theme=radical" />
-</p>
-
----
-
 ## ⏳ What I'm up to
 
 - 🌐 Exploring real-world **AI applications** in agriculture, education & productivity
 - 📦 Building useful, beautiful tools with **React**, **Next.js**, and **Supabase**
 - 🌍 Learning how **Web3** can decentralize access to opportunity
+- 🤝 I’m open to collaborating on impactful projects, especially in **AI**, **Web3**, and **open-source**.
+- 📫 You can reach me at **jp0712002@gmail.com** or [on X](https://x.com/joshpet77).
+
+
 
 ---
 
