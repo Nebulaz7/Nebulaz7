@@ -20,16 +20,22 @@
 - 🌐 Portfolio: [petersjoshua.me](https://petersjoshua.me)
 - 📬 Reach me: [@joshpet77](https://twitter.com/joshpet77)
 
----
+## 🔧 Tech Stack
 
-### 🚀 Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
 
 ---
 
@@ -42,28 +48,9 @@
 
 ---
 
-### ⏳ WakaTime Coding Stats
-
-<!-- Replace with your WakaTime username -->
-[![WakaTime](https://wakatime.com/badge/user/Nebulaz7.svg)](https://wakatime.com/@Nebulaz7)
-
-
-
 
 - 🤝 I’m open to collaborating on impactful projects, especially in **AI**, **Web3**, and **open-source**.
 - 📫 You can reach me at **jp0712002@gmail.com** or [on X](https://x.com/joshpet77).
-
----
-
-## 🔧 Tech Stack
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
-![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 
 ---
 
@@ -87,13 +74,6 @@
 
 I believe **code is a superpower**, and I'm always down to build the next big thing — or help someone do it.
 
----
-
-## 📫 Let's Connect
-
-[![Twitter Badge](https://img.shields.io/badge/-@your_handle-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/joshpet77)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://petersjoshua.me)
 
 ---
 
