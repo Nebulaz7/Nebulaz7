@@ -2,7 +2,7 @@
 
 🚀 I'm a passionate **Frontend Developer** exploring the exciting world of **AI/ML** and **Web3** technologies.
 
-- 👨🏽‍💻 I’m currently sharpening my skills in **Machine Learning** and building projects that bridge AI with user-friendly<h1 align="center">
+- 👨🏽‍💻 I’m currently sharpening my skills in **Machine Learning and Web 3** and building projects that bridge AI with user-friendly<h1 align="center">
   Hi there 👋, I'm Joshua Peters
 </h1>
 
