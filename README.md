@@ -55,12 +55,5 @@
 
 ---
 
-## 🧠 Fun Fact
-
-I believe **code is a superpower**, and I'm always down to build the next big thing — or help someone do it.
-
-
----
-
 🧠 _“Stay curious. Keep building. Never stop learning.”_
 
