@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=Frontend+Developer;AI+%2F+ML+Enthusiast;Web3+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 👨🏽‍💻 About Me
@@ -29,7 +30,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
-<img src="https://komarev.com/ghpvc/?username=Nebulaz7&style=flat-square" >
+<img src="https://komarev.com/ghpvc/?username=Nebulaz7&style=pixel" >
 
 ---
 
