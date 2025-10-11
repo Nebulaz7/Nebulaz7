@@ -1,15 +1,19 @@
 # 👋 Hey there, I’m Peters Joshua
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=Frontend+Developer;AI+%2F+ML+Enthusiast;Web3+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=Frontend+Engineer;Smart+contract+developer;AI+%2F+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Nebulaz7">
+</div>
 
 ---
 
 ### 👨🏽‍💻 About Me
 
-- 💡 I'm deeply passionate about **Machine Learning**, **Web3**, and building scalable **frontend applications**.
-- 📚 Currently learning advanced **AI/ML concepts** and integrating them into real-world solutions.
+- 💡 I'm deeply passionate about, **Web3**, and building scalable **frontend applications** and **decentralized applications**.
+- 📚 Currently Developing **[GenZ.Js](https://genz-js.vercel.app)**, a javascript library for adding interactivity directly to html.
 - 🤝 Open to collaboration on innovative and impactful projects.
 - 🌐 Portfolio: [petersjoshua.me](https://petersjoshua.me)
 - 📬 Reach me: [@joshpet77](https://twitter.com/joshpet77)
@@ -30,7 +34,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
-<img src="https://komarev.com/ghpvc/?username=Nebulaz7&style=pixel" >
+
 
 ---
 
@@ -39,6 +43,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nebulaz7&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Nebulaz7&theme=tokyonight" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebulaz7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
