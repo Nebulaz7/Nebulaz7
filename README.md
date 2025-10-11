@@ -22,6 +22,7 @@
 
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+[!https://img.shields.io/badge/Solidity-%5E0.8.0-black?logo=solidity&logoColor=white](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
