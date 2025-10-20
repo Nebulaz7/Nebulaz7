@@ -16,7 +16,7 @@
 - 📚 Currently Developing **[GenZ.Js](https://genz-js.vercel.app)**, a javascript library for adding interactivity directly to html.
 - 🤝 Open to collaboration on innovative and impactful projects.
 - 🌐 Portfolio: [petersjoshua.me](https://petersjoshua.me)
-- 📬 Reach me: [@joshpet77](https://twitter.com/joshpet77)
+-  📫 You can reach me at **jp0712002@gmail.com** or [on X](https://x.com/joshpet77)
 
 ## 🔧 Tech Stack
 
@@ -46,19 +46,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Nebulaz7&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nebulaz7&layout=donut&theme=tokyonight" />
 </p>
-
----
-
-
-## ⏳ What I'm up to
-
-- 🌐 Exploring real-world **AI applications** in agriculture, education & productivity
-- 📦 Building useful, beautiful tools with **React**, **Next.js**, and **Supabase**
-- 🌍 Learning how **Web3** can decentralize access to opportunity
-- 🤝 I’m open to collaborating on impactful projects, especially in **AI**, **Web3**, and **open-source**.
-- 📫 You can reach me at **jp0712002@gmail.com** or [on X](https://x.com/joshpet77).
-
-
 
 ---
 
