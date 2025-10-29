@@ -13,7 +13,7 @@
 ### 👨🏽‍💻 About Me
 
 - 💡 I'm deeply passionate about, **Web3**, and building scalable **frontend applications** and **decentralized applications**.
-- 📚 Currently Developing **[GenZ.Js](https://genz-js.vercel.app)**, a javascript library for adding interactivity directly to html.
+- 📚 Currently Developing **[GenZ.Js](https://genz-js.vercel.app)**, a javascript library for adding interactivity directly to HTML.
 - 🤝 Open to collaboration on innovative and impactful projects.
 - 🌐 Portfolio: [petersjoshua.me](https://petersjoshua.me)
 -  📫 You can reach me at **jp0712002@gmail.com** or [on X](https://x.com/joshpet77)
