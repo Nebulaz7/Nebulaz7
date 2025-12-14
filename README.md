@@ -19,7 +19,6 @@
 -  📫 You can reach me at **jp0712002@gmail.com** or [on X](https://x.com/joshpet77)
 
 ---
----
 
 ### 🏆 Achievements & Hackathons
 
