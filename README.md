@@ -22,8 +22,8 @@
 
 ### 🏆 Achievements & Hackathons
 
-- 🥇 **Code n Corgi FUNAAB** — *1st Place* (Oct 2025)
-  Built **[Dallnk](https://github.com/Nebulaz7/dallnk)**, a decentralized data bounty platform leveraging the **Filecoin ecosystem**.  
+- 🥇 **Code n Corgi FUNAAB Hackathon ** — *1st Place* (Oct 2025)
+  Built **[Dallnk](https://github.com/cridiv/dallnk)**, a decentralized data bounty platform leveraging the **Filecoin ecosystem**.  
   Collaborated with **@Crid_IV** and **@zeekalph** to deliver a user-centric Web3 solution.
 
 - 🥇 **Certified Polkadot Tinkerer** — *Polkadot Builder Party Hackathon* (Dec 2025)
