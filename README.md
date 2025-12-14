@@ -18,6 +18,22 @@
 - 🌐 Portfolio: [petersjoshua.me](https://petersjoshua.me)
 -  📫 You can reach me at **jp0712002@gmail.com** or [on X](https://x.com/joshpet77)
 
+---
+---
+
+### 🏆 Achievements & Hackathons
+
+- 🥇 **Code n Corgi FUNAAB** — *1st Place*  
+  Built **[Dallnk](https://github.com/Nebulaz7/dallnk)**, a decentralized data bounty platform leveraging the **Filecoin ecosystem**.  
+  Collaborated with **@Crid_IV** and **@zeekalph** to deliver a user-centric Web3 solution.
+
+- 🥇 **Certified Polkadot Tinkerer** — *Polkadot Builder Party Hackathon*  
+  Built **[Devra](https://devpost.com/software/devra)**, a decentralized application leveraging the **Polkadot ecosystem**.  
+  Collaborated with **@Crid_IV** and **@zeekalph** to deliver a user-centric Web3 solution.
+
+---
+
+
 ## 🔧 Tech Stack
 
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
