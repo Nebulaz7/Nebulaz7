@@ -57,8 +57,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://gitmystat.vercel.app/api?username=Nebulaz7&theme=tokyonight"/>
-<img src="https://gitmystat.vercel.app/api/top-langs?username=Nebulaz7&theme=tokyonight"/>
+<img src="https://readme-stats-fast.vercel.app/api?username=Nebulaz7&show_icons=true&theme=tokyonight"/>
+<img src="https://readme-stats-fast.vercel.app/api/top-langs?username=Nebulaz7&layout=compact&theme=tokyonight"/>
 <img src="https://readme-stats-fast.vercel.app/api/streak?username=Nebulaz7&theme=tokyonight"/>
 </p>
 
