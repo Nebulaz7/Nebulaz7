@@ -22,16 +22,16 @@
 
 ### 🏆 Achievements & Hackathons
 
-- 🥇 **Code n Corgi FUNAAB Hackathon** — *1st Place* (Oct 2025)
-  Built **[Dallnk](https://github.com/cridiv/dallnk)**, a decentralized data bounty platform leveraging the **Filecoin ecosystem**.  
-  Collaborated with **@Crid_IV** and **@zeekalph** to deliver a user-centric Web3 solution.
+- 🥇 **Suihub Africa Campus Tour Hackathon** — *4th place* (Dec 2025)
+  Built **[Velax](https://x.com/SuiHubAfrica/status/2010741770620129414?s=20)**, Velax is a decentralized NFT auction marketplace built on **Sui** that removes two major Web3 pain points: locked funds and complex onboarding.
 
 - 🥇 **Certified Polkadot Tinkerer** — *Polkadot Builder Party Hackathon* (Dec 2025)
   Built **[Devra](https://devpost.com/software/devra)**, a decentralized application leveraging the **Polkadot ecosystem**.  
   Collaborated with **@Crid_IV** and **@zeekalph** to deliver a user-centric Web3 solution.
   
-- 🥇 **Suihub Africa Campus Tour Hackathon** — *4th place* (Dec 2025)
-  Built **[Velax](https://x.com/SuiHubAfrica/status/2010741770620129414?s=20)**, Velax is a decentralized NFT auction marketplace built on **Sui** that removes two major Web3 pain points: locked funds and complex onboarding.  
+- 🥇 **Code n Corgi FUNAAB Hackathon** — *1st Place* (Oct 2025)
+  Built **[Dallnk](https://github.com/cridiv/dallnk)**, a decentralized data bounty platform leveraging the **Filecoin ecosystem**.  
+  Collaborated with **@Crid_IV** and **@zeekalph** to deliver a user-centric Web3 solution.
 
 ---
 
