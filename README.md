@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Peters Joshua
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=Frontend+Engineer;Smart+contract+developer;AI+%2F+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=Frontend+Engineer;Blockchain+developer;AI+%2F+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <div align="center">
