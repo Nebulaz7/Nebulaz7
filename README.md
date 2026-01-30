@@ -1,7 +1,7 @@
-# 👋 Hey there, I’m Peters Joshua
+# 👋 Hey there, I'm Peters Joshua
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=Frontend+Engineer;Blockchain+developer;AI+%2F+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=Frontend+Engineer;Blockchain+developer;AI+%2F+Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -23,7 +23,7 @@
 ### 🏆 Achievements & Hackathons
 
 - 🥇 **Suihub Africa Campus Tour Hackathon** — *4th place* (Dec 2025)
-  Built **[Velax](https://x.com/SuiHubAfrica/status/2010741770620129414?s=20)**, Velax is a decentralized NFT auction marketplace built on **Sui** that removes two major Web3 pain points: locked funds and complex onboarding.
+  Built **[Velax](https://x.com/SuiHubAfrica/status/2010741770620129414?s=20)**, Velax is a decentralized NFT auction marketplace built on **Sui** that removes two major Web3 pain points: locked funds and failed auctions.
 
 - 🥇 **Certified Polkadot Tinkerer** — *Polkadot Builder Party Hackathon* (Dec 2025)
   Built **[Devra](https://devpost.com/software/devra)**, a decentralized application leveraging the **Polkadot ecosystem**.  
@@ -35,25 +35,30 @@
 
 ---
 
+## 🛠️ Tech Stack
 
-## 🔧 Tech Stack
-
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+**Languages & Frameworks:**  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 [![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)](#)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+
+**Styling & Design:**  
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
-![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+
+**Backend & Tools:**  
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
 
+**AI & Machine Learning:**  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
 
 ---
 
@@ -67,5 +72,4 @@
 
 ---
 
-🧠 _“Stay curious. Keep building. Never stop learning.”_
-
+🧠 _"Stay curious. Keep building. Never stop learning."_
