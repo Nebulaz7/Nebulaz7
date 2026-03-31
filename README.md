@@ -22,7 +22,7 @@
 
 ### 🏆 Achievements & Hackathons
 
-- 🥇 **Suihub Africa Campus Tour Hackathon** — *4th place* (Dec 2025)
+- 🥇 **Suihub Africa Campus Tour Hackathon** — *3rd place* (Dec 2025)
   Built **[Velax](https://x.com/SuiHubAfrica/status/2010741770620129414?s=20)**, Velax is a decentralized NFT auction marketplace built on **Sui** that removes two major Web3 pain points: locked funds and failed auctions.
 
 - 🥇 **Certified Polkadot Tinkerer** — *Polkadot Builder Party Hackathon* (Dec 2025)
