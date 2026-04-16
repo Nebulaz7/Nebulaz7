@@ -20,7 +20,10 @@
 
 ---
 
-<!-- ### 🏆 Achievements & Hackathons
+ ### 🏆 Achievements & Hackathons
+
+ - 🥇 **Polkadot Solidity Hackathon** — *Openzepplin track* (Mar 2026)
+  Built **[Hyperway](https://x.com/SuiHubAfrica/status/2010741770620129414?s=20)**, Velax is a decentralized NFT auction marketplace built on **Sui** that removes two major Web3 pain points: locked funds and failed auctions.
 
 - 🥇 **Suihub Africa Campus Tour Hackathon** — *3rd place* (Dec 2025)
   Built **[Velax](https://x.com/SuiHubAfrica/status/2010741770620129414?s=20)**, Velax is a decentralized NFT auction marketplace built on **Sui** that removes two major Web3 pain points: locked funds and failed auctions.
@@ -33,7 +36,7 @@
   Built **[Dallnk](https://github.com/cridiv/dallnk)**, a decentralized data bounty platform leveraging the **Filecoin ecosystem**.  
   Collaborated with **@Crid_IV** and **@zeekalph** to deliver a user-centric Web3 solution.
 
---- -->
+--- 
 
 ## 🛠️ Tech Stack
 
