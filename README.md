@@ -23,7 +23,7 @@
  ### 🏆 Achievements & Hackathons
 
  - 🥇 **Polkadot Solidity Hackathon** — *Openzepplin track* (Mar 2026)
-  Built **[Hyperway](https://x.com/SuiHubAfrica/status/2010741770620129414?s=20)**, Hyperway is a trustless GPU marketplace on Polkadot Hub leveraging XCM V5 precompiles, native USDT (Asset 1984), and OpenZeppelin ERC2771 gasless UX. 70% cheaper than AWS.
+  Built **[Hyperway](https://dorahacks.io/hackathon/polkadot-solidity-hackathon/winner)**, Hyperway is a trustless GPU marketplace on Polkadot Hub leveraging XCM V5 precompiles, native USDT (Asset 1984), and OpenZeppelin ERC2771 gasless UX. 70% cheaper than AWS.
 
 - 🥇 **Suihub Africa Campus Tour Hackathon** — *3rd place* (Dec 2025)
   Built **[Velax](https://x.com/SuiHubAfrica/status/2010741770620129414?s=20)**, Velax is a decentralized NFT auction marketplace built on **Sui** that removes two major Web3 pain points: locked funds and failed auctions.
