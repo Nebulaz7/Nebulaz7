@@ -19,7 +19,7 @@
 -  📫 You can reach me at **jp0712002@gmail.com** or [on X](https://x.com/joshpet77).
 
 ---
-
+<!--
  ### 🏆 Achievements & Hackathons
 
  - 🥇 **Polkadot Solidity Hackathon** — *Openzepplin track* (Mar 2026)
@@ -37,6 +37,7 @@
   Collaborated with **@Crid_IV** and **@zeekalph** to deliver a user-centric Web3 solution.
 
 --- 
+-->
 
 ## 🛠️ Tech Stack
 
